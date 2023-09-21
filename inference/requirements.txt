@@ -10,8 +10,8 @@ cachetools==4.2.4
 certifi==2020.12.5
 
 charset-normalizer==2.0.9
-conda==4.9.2
-conda-build==3.21.4
+
+
 
 cycler==0.10.0
 
